@@ -60,6 +60,7 @@ ML Engineer / Data Scientist with over 5 years of hands-on experience delivering
 > A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.  
 > You miss 100% of the shots you don't take.
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ivan-labutin-731814394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:i.labutin571@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
