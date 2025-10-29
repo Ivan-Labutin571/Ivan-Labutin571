@@ -2,15 +2,15 @@
 
 ML Engineer / Data Scientist with over 5 years of hands-on experience delivering end-to-end AI and ML solutions—from research and system architecture to deployment and scaling. Strong background in Deep Learning (DL), Computer Vision (CV), NLP, GenAI, and Recommender Systems. Experienced in leading teams, building production-grade pipelines, and developing MLOps ecosystems for real-world business impact.
 
-- ⚡ **Fun Fact:** I strongly believe in the Chaos Theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🌟 **I'm interested in all things data:** Big Data, Cloud, Machine Learning, and Data Science.
-- 💬 **Talk to me about:** Games, Memes, Movies, Photography 📸
+- ⚡ **Fun Fact:** In the world of machine learning, I've found that the most complex models often reveal the simplest truths – like how a single pixel can fool an AI, reminding us that perception is everything.
+- 🌟 **I'm interested in all things data:** Machine Learning, Artificial Intelligence, Big Data and Data Science.
+- 💬 **Talk to me about:** Busketball, Gym, Games, Memes, Movies 📸
 
 
 ## Key Achievements
 - Led the entire Machine Learning division at an international startup—built the ML direction, designed architecture, and managed a 12-person cross-functional team. Built from scratch a multimodal architecture (RAG + AI agents), launched real-time MLOps infrastructure, and created models for calorie prediction and body analysis from photos.
 - Built hybrid recommender systems (user2item, item2item) using LightFM, Implicit, and deep-ranking architectures, increasing CTR by 14.1% and user retention by 22.9% through hybrid and session-based personalization.
-- Developed forecasting models for logistics (ETA prediction, route optimization, dynamic pricing), increasing delivery-time accuracy from 78.2% to 90.5% and reducing logistics costs by 13.2%.
+- Researched and developed state-of-the-art CV models for face recognition, person re-identification, action recognition, and multi-object tracking, achieving >0.95 on key metrics. Developed and deployed anomaly detection modules for high-load infrastructure of industrial cameras.
 
 ## My skills include
 
@@ -57,8 +57,8 @@ ML Engineer / Data Scientist with over 5 years of hands-on experience delivering
 </p>
 
 
-> A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.  
-> You miss 100% of the shots you don't take.
+> Any sufficiently advanced technology is indistinguishable from magic.
+> The best way to predict the future is to invent it.
 
 
 <p align="center">
