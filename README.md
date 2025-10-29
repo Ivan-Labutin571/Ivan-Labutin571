@@ -9,7 +9,6 @@ ML Engineer / Data Scientist with over 5 years of hands-on experience delivering
 ## My skills include
 
 ### Languages
-Python, YAML, XML, JSON, Bash, SQL
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -18,7 +17,6 @@ Python, YAML, XML, JSON, Bash, SQL
 </p>
 
 ### Development & Management
-Git, GitHub, GitLab, Jira, Confluence, PyCharm, Miro, ClickUp, Scrum
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -30,7 +28,6 @@ Git, GitHub, GitLab, Jira, Confluence, PyCharm, Miro, ClickUp, Scrum
 </p>
 
 ### Databases & Search
-PostgreSQL, ClickHouse, SQLAlchemy, Redis, NoSQL, OpenSearch, Qdrant, Weaviate, Pinecone
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -39,7 +36,6 @@ PostgreSQL, ClickHouse, SQLAlchemy, Redis, NoSQL, OpenSearch, Qdrant, Weaviate, 
 </p>
 
 ### Data Engineering
-PySpark, Hadoop, HDFS, Feature Engineering
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="PySpark" />
@@ -47,7 +43,6 @@ PySpark, Hadoop, HDFS, Feature Engineering
 </p>
 
 ### Streaming / Orchestration
-Kafka, Airflow, Prefect, Kubeflow, Metaflow
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
@@ -56,7 +51,6 @@ Kafka, Airflow, Prefect, Kubeflow, Metaflow
 </p>
 
 ### Frameworks & Libraries
-NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, HuggingFace, CLIP, LLaMA, vLLM, Unsloth, LangChain, LangGraph, RAG, Prompt Engineering, Prompt Registry, OpenCV, Albumentations, YOLO, Detectron2, DeepSort, ByteTrack, SlowFast, TimeSformer, SHAP, LIME, CVAT, FFmpeg, PyAV, GStreamer, Implicit, LightFM, RecTools
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -75,7 +69,6 @@ NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, LightGBM, CatB
 </p>
 
 ### MLOps / Lifecycle / Serving
-MLflow, ClearML, Comet-ML, DVC, Triton, ONNX, TensorRT, Prometheus, Grafana, Evidently, Great Expectations, Pandera, Data Drift, Data Contracts
 
 <p align="center">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
@@ -85,7 +78,6 @@ MLflow, ClearML, Comet-ML, DVC, Triton, ONNX, TensorRT, Prometheus, Grafana, Evi
 </p>
 
 ### Infrastructure & CI/CD
-Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI, Jenkins, ArgoCD, Linux, Trivy, Clair, RBAC/IAM, GDPR/ISO Compliance
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -93,13 +85,6 @@ Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI, Jenkins, ArgoCD, 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### Other
-Classic ML, Recommender Systems, Deep Learning, Computer Vision, NLP
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ## Key Achievements
